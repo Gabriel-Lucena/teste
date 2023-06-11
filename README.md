@@ -23,3 +23,5 @@ teste gás carbônico 2
 teste hardware
 
 teste terca
+
+teste monóxido
